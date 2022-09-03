@@ -7,6 +7,8 @@ Corsair White iCUE 220T Addressable RGB Airflow Midi PC Gaming Case £80
 ![image](https://user-images.githubusercontent.com/20911308/188266154-d56511d3-97c8-40e5-bfe1-9be88a66ae90.png)  
 https://www.scan.co.uk/products/corsair-icue-220t-rgb-airflow-white-mid-tower-pc-case-w-tempered-glass-window-atx-matx-mitx-3x-120mm   
 NB no rear [extraction] fan included. An additional £14  
+![image](https://user-images.githubusercontent.com/20911308/188266909-e6d557a1-8aac-41bf-a35d-874e00430f1a.png)
+
 
 ---
 ## MOTHERBOARD  
@@ -19,7 +21,7 @@ Gigabyte Z690 GAMING X DDR4, Intel Z690, S 1700, DDR4, PCIe 5.0, SATA3, 4x M.2, 
 ---
 ## CPU
 Intel, 10-Core i5 12600K Alder Lake CPU/Processor £290  
-![image](https://user-images.githubusercontent.com/20911308/188265765-11d8e2f9-2781-4a40-bed8-5139f0760bc2.png)  
+![image](https://user-images.githubusercontent.com/20911308/188267075-e8ae2802-1082-4327-be48-a8172072c0da.png)  
 12th Gen Intel® Core™ i5-12600K Alder Lake Desktop CPU  
 Intel Core i5 12600K, S 1700, Alder Lake, 10 Cores, 16 Threads, 3.7GHz, 4.9GHz Turbo, 20MB Cache, 125W, Retail  
 https://www.scan.co.uk/products/intel-core-i5-12600k-s-1700-alder-lake-10-cores-16-threads-37ghz-49ghz-turbo-20mb-cache  
@@ -70,6 +72,8 @@ Corsair RM750 750 Watt 80+ Gold Fully Modular PSU/Power Supply £70
 
 ---
 ## MONITOR
+**In-plane switching (or IPS) is an LCD-based technology that is used in just about every kind of display, whereas Vertical Alignment (or VA) is a more niche LCD technology used in gaming monitors, gaming TVs, and wide displays**
+
 ### None yet!
 ### itro £1000 LG or Similar 38" UWQHD+ ie 3840 x 1600 pixels
 ![image](https://user-images.githubusercontent.com/20911308/188266651-cf499379-975e-4bc5-8b71-6e2492fb61d3.png)
