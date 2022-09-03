@@ -1,6 +1,15 @@
 # Video #25X Intel 12th Gen Productivity PC
-### Description of my new PC (mainly productivity, maybe some gaming)
+### Description of my new (Aug 2022) PC (mainly productivity, maybe some gaming)  
+Used for:
+* general browsing
+* on-line shopping
+* R&D
+* video editing
+* photo editing
+* Office 365
+* occasional gaming
 
+---
 ## CASE
 Corsair White iCUE 220T Addressable RGB Airflow Midi PC Gaming Case £80   
 ![image](https://user-images.githubusercontent.com/20911308/188265571-99fb8aba-cc1e-4c78-b28e-11084e2fb345.png)
@@ -20,9 +29,8 @@ Gigabyte Z690 GAMING X DDR4, Intel Z690, S 1700, DDR4, PCIe 5.0, SATA3, 4x M.2, 
 
 ---
 ## CPU
-Intel, 10-Core i5 12600K Alder Lake CPU/Processor £290  
+Intel, 12th generation, 10-Core, 16 thread, i5-12600K Alder Lake CPU/Processor £290  (vs i7-12700K £419)
 ![image](https://user-images.githubusercontent.com/20911308/188267075-e8ae2802-1082-4327-be48-a8172072c0da.png)  
-12th Gen Intel® Core™ i5-12600K Alder Lake Desktop CPU  
 Intel Core i5 12600K, S 1700, Alder Lake, 10 Cores, 16 Threads, 3.7GHz, 4.9GHz Turbo, 20MB Cache, 125W, Retail  
 https://www.scan.co.uk/products/intel-core-i5-12600k-s-1700-alder-lake-10-cores-16-threads-37ghz-49ghz-turbo-20mb-cache  
 
@@ -72,7 +80,9 @@ Corsair RM750 750 Watt 80+ Gold Fully Modular PSU/Power Supply £70
 
 ---
 ## MONITOR
-**In-plane switching (or IPS) is an LCD-based technology that is used in just about every kind of display, whereas Vertical Alignment (or VA) is a more niche LCD technology used in gaming monitors, gaming TVs, and wide displays**
+**In-plane switching (or IPS) is an LCD-based technology that is used in just about every kind of display, whereas Vertical Alignment (or VA) is a more niche LCD technology used in gaming monitors, gaming TVs, and wide displays.**
+
+**Twisted Nematic (TN) are very fast (ideal for gamers) and when  paired with a high refresh rate, TN panel gaming monitors provide a buttery-smooth gaming experience at an affordable price, which is why they are usually the first choice of many professional FPS gamers; but TN monitors have the worst color reproduction and narrow viewing angles (170° horizontally, 160° vertically), which causes the image to shift in color, contrast and brightness when it’s looked at skewed angles.**
 
 ### None yet!
 ### itro £1000 LG or Similar 38" UWQHD+ ie 3840 x 1600 pixels
