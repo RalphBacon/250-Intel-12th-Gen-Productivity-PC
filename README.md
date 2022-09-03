@@ -3,7 +3,8 @@ Description of my new PC (mainly productivity, maybe some gaming)
 
 ### CASE
 Corsair White iCUE 220T Addressable RGB Airflow Midi PC Gaming Case £80   
-![image](https://user-images.githubusercontent.com/20911308/188265571-99fb8aba-cc1e-4c78-b28e-11084e2fb345.png)  
+![image](https://user-images.githubusercontent.com/20911308/188265571-99fb8aba-cc1e-4c78-b28e-11084e2fb345.png)
+![image](https://user-images.githubusercontent.com/20911308/188266154-d56511d3-97c8-40e5-bfe1-9be88a66ae90.png)  
 https://www.scan.co.uk/products/corsair-icue-220t-rgb-airflow-white-mid-tower-pc-case-w-tempered-glass-window-atx-matx-mitx-3x-120mm   
 NB no rear [extraction] fan included. An additional £14   
 
