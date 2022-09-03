@@ -1,5 +1,5 @@
 # Video #25X Intel 12th Gen Productivity PC
-### Description of my new (Aug 2022) PC (mainly productivity, maybe some gaming)  
+### Description of my new (Aug 2022) PC (mainly productivity, maybe some future gaming)  
 Used for:
 * general browsing
 * on-line shopping
@@ -7,7 +7,7 @@ Used for:
 * video editing
 * photo editing
 * Office 365
-* occasional gaming
+* occasional gaming?
 
 ---
 ## CASE
@@ -99,6 +99,11 @@ Corsair RM750 750 Watt 80+ Gold Fully Modular PSU/Power Supply £70
 **In-plane switching (or IPS) is an LCD-based technology that is used in just about every kind of display, whereas Vertical Alignment (or VA) is a more niche LCD technology used in gaming monitors, gaming TVs, and wide displays.**
 
 **Twisted Nematic (TN) are very fast (ideal for gamers) and when  paired with a high refresh rate, TN panel gaming monitors provide a buttery-smooth gaming experience at an affordable price, which is why they are usually the first choice of many professional FPS gamers; but TN monitors have the worst color reproduction and narrow viewing angles (170° horizontally, 160° vertically), which causes the image to shift in color, contrast and brightness when it’s looked at skewed angles.**
+
+Standard sizes and aspect ratios
+* 16:9 (eg 1980 x 1080, more likely 3440  ×1440 or 2560 × 1080)
+* 16:10 (eg 1920 x 1200) ← my current monitors
+* 21:9 (eg 3440 x 1440 or UltraWide QHD+ 3840 × 1600)
 
 ### None yet!
 ### itro £1000 LG or Similar 38" UWQHD+ ie 3840 x 1600 pixels
