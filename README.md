@@ -16,7 +16,7 @@ Gigabyte Z690 GAMING X DDR4, Intel Z690, S 1700, DDR4, PCIe 5.0, SATA3, 4x M.2, 
 
 ### CPU
 Intel, 10-Core i5 12600K Alder Lake CPU/Processor £290  
-
+![image](https://user-images.githubusercontent.com/20911308/188265765-11d8e2f9-2781-4a40-bed8-5139f0760bc2.png)  
 12th Gen Intel® Core™ i5-12600K Alder Lake Desktop CPU  
 Intel Core i5 12600K, S 1700, Alder Lake, 10 Cores, 16 Threads, 3.7GHz, 4.9GHz Turbo, 20MB Cache, 125W, Retail  
 https://www.scan.co.uk/products/intel-core-i5-12600k-s-1700-alder-lake-10-cores-16-threads-37ghz-49ghz-turbo-20mb-cache  
@@ -24,6 +24,7 @@ https://www.scan.co.uk/products/intel-core-i5-12600k-s-1700-alder-lake-10-cores-
 
 ### COOLER
 be quiet Dark Rock 4 Intel/AMD Heatpipe Tower Air CPU Cooler £65  
+![image](https://user-images.githubusercontent.com/20911308/188265825-896a4cb7-de89-4859-a671-2646d2963ca5.png)  
 be quiet! Dark Rock 4 Single Tower CPU Cooler, 6 Heatpipes, 135mm Silent Wings PWM Fan, Al/Cu, 200W TDP  
 https://www.scan.co.uk/products/be-quiet!-dark-rock-4-single-tower-cpu-cooler-6-heatpipes-135mm-silent-wings-pwm-fan-al-cu-200w-tdp  
 
