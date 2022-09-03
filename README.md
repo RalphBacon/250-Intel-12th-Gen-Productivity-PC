@@ -30,21 +30,24 @@ https://www.scan.co.uk/products/be-quiet!-dark-rock-4-single-tower-cpu-cooler-6-
 
 ### RAM
 Corsair Vengeance LPX Black 32GB 3600MHz DDR4 Memory Kit £125)  
+![image](https://user-images.githubusercontent.com/20911308/188265936-34e735be-5f88-4770-85d1-6dd44cdf39be.png)  
 32GB (2x16GB) Corsair DDR4 Vengeance LPX Black, PC4-28800 (3600), Non-ECC Unbuffered, CAS 16-19-19-36, XMP 2.0, 1.35V  
 
-### SSD 1 (BOOT / OS)
-Samsung 980 PRO 1TB M.2 PCIe 4.0 Gen4 NVMe SSD/Solid State Drive £100 
+### SSD 1 (BOOT / OS)  
+Samsung 980 PRO 1TB M.2 PCIe 4.0 Gen4 NVMe SSD/Solid State Drive £100  
 ![image](https://user-images.githubusercontent.com/20911308/188265411-08a8e289-9433-4e4e-82e0-67314f4fc955.png)  
 1TB Samsung 980 PRO, M.2 (2280), PCIe 4.0 (x4) NVMe SSD, Elpis, MLC 3D V-NAND, 7000MB/s Read, 5000MB/s Write  
 https://www.scan.co.uk/products/1tb-samsung-980-pro-m2-2280-pcie-40-x4-nvme-ssd-elpis-mlc-3d-v-nand-7000mb-s-read-5000mb-s-write  
 
 ### SSD 2 (DATA)
-Corsair MP600 PRO XT 2TB M.2 PCIe NVMe with Heatsink SSD/Solid State Drive £219 (238)
-2TB Corsair MP600 PRO XT, M.2 (2280) PCIe 4.0 (x4) NVMe SSD, 7100MB/s Read, 6800MB/s Write, 1000k/1200k IOPS
-https://www.scan.co.uk/products/2tb-corsair-mp600-pro-xt-m2-2280-pcie-40-x4-nvme-ssd-7100mb-s-read-6800mb-s-write-1000k-1200k-iops
+Corsair MP600 PRO XT 2TB M.2 PCIe NVMe with Heatsink SSD/Solid State Drive £219 (238)  
+![image](https://user-images.githubusercontent.com/20911308/188265960-849274ee-c6cf-40d1-87eb-b2508c2369cc.png)  
+2TB Corsair MP600 PRO XT, M.2 (2280) PCIe 4.0 (x4) NVMe SSD, 7100MB/s Read, 6800MB/s Write, 1000k/1200k IOPS  
+https://www.scan.co.uk/products/2tb-corsair-mp600-pro-xt-m2-2280-pcie-40-x4-nvme-ssd-7100mb-s-read-6800mb-s-write-1000k-1200k-iops  
 
 ### PSU
-Corsair RM750 750 Watt 80+ Gold Fully Modular PSU/Power Supply £70
+Corsair RM750 750 Watt 80+ Gold Fully Modular PSU/Power Supply £70  
+![image](https://user-images.githubusercontent.com/20911308/188265988-1451493d-2a6d-4b8b-a186-3ca404098f49.png)  
 750W Corsair RM Series RM750 Full Modular, 80PLUS Gold, SLI/CrossFire, Single Rail, 62.5A, 140mm Fan, ATX PSU
 
 ### GRAPHICS CARD
