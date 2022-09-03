@@ -40,6 +40,10 @@ https://www.scan.co.uk/products/intel-core-i5-12600k-s-1700-alder-lake-10-cores-
 
 ![image](https://user-images.githubusercontent.com/20911308/188269031-18208c6b-b08b-4388-be5d-b186c6064993.png)  
 
+![image](https://user-images.githubusercontent.com/20911308/188269315-394eda8e-8897-4455-aa22-da4f4c978751.png)  
+
+### Comparison site: https://www.cpubenchmark.net/compare/Intel-i5-3470S-vs-Intel-i5-12600K/823vs4603  
+
 
 ---
 ## COOLER
@@ -50,7 +54,7 @@ https://www.scan.co.uk/products/be-quiet!-dark-rock-4-single-tower-cpu-cooler-6-
 
 ---
 ## RAM
-Corsair Vengeance LPX Black 32GB 3600MHz DDR4 Memory Kit £125)  
+Corsair Vengeance LPX Black 32GB 3600MHz DDR4 Memory Kit (£125)  
 ![image](https://user-images.githubusercontent.com/20911308/188265936-34e735be-5f88-4770-85d1-6dd44cdf39be.png)  
 32GB (2x16GB) Corsair DDR4 Vengeance LPX Black, PC4-28800 (3600), Non-ECC Unbuffered, CAS 16-19-19-36, XMP 2.0, 1.35V  
 
@@ -63,7 +67,7 @@ https://www.scan.co.uk/products/1tb-samsung-980-pro-m2-2280-pcie-40-x4-nvme-ssd-
 
 ---
 ## SSD 2 (DATA)
-Corsair MP600 PRO XT 2TB M.2 PCIe NVMe with Heatsink SSD/Solid State Drive £219 (238)  
+Corsair MP600 PRO XT 2TB M.2 PCIe NVMe with Heatsink SSD/Solid State Drive £219 (normally £238)  
 ![image](https://user-images.githubusercontent.com/20911308/188265960-849274ee-c6cf-40d1-87eb-b2508c2369cc.png)  
 2TB Corsair MP600 PRO XT, M.2 (2280) PCIe 4.0 (x4) NVMe SSD, 7100MB/s Read, 6800MB/s Write, 1000k/1200k IOPS  
 https://www.scan.co.uk/products/2tb-corsair-mp600-pro-xt-m2-2280-pcie-40-x4-nvme-ssd-7100mb-s-read-6800mb-s-write-1000k-1200k-iops  
@@ -77,6 +81,9 @@ Corsair RM750 750 Watt 80+ Gold Fully Modular PSU/Power Supply £70
 ---
 ## GRAPHICS CARD
 ### None yet! 
+### CUDA: Compute Unified Device Architecture
+
+---
 ### itro £600 Nvidia RTX 3070
 ![image](https://user-images.githubusercontent.com/20911308/188266550-9d2f0556-36f8-4824-a357-3bd3815b78ed.png)
 
