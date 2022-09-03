@@ -5,6 +5,7 @@ Description of my new PC (mainly productivity, maybe some gaming)
 
 ### CASE
 Corsair White iCUE 220T Addressable RGB Airflow Midi PC Gaming Case £80   
+
 https://www.scan.co.uk/products/corsair-icue-220t-rgb-airflow-white-mid-tower-pc-case-w-tempered-glass-window-atx-matx-mitx-3x-120mm   
 NB no rear [extraction] fan. An additional £14   
 
@@ -30,7 +31,8 @@ Corsair Vengeance LPX Black 32GB 3600MHz DDR4 Memory Kit £125)
 32GB (2x16GB) Corsair DDR4 Vengeance LPX Black, PC4-28800 (3600), Non-ECC Unbuffered, CAS 16-19-19-36, XMP 2.0, 1.35V  
 
 SSD 1 (BOOT / OS)
-Samsung 980 PRO 1TB M.2 PCIe 4.0 Gen4 NVMe SSD/Solid State Drive £100  
+Samsung 980 PRO 1TB M.2 PCIe 4.0 Gen4 NVMe SSD/Solid State Drive £100 
+![image](https://user-images.githubusercontent.com/20911308/188265411-08a8e289-9433-4e4e-82e0-67314f4fc955.png)  
 1TB Samsung 980 PRO, M.2 (2280), PCIe 4.0 (x4) NVMe SSD, Elpis, MLC 3D V-NAND, 7000MB/s Read, 5000MB/s Write  
 https://www.scan.co.uk/products/1tb-samsung-980-pro-m2-2280-pcie-40-x4-nvme-ssd-elpis-mlc-3d-v-nand-7000mb-s-read-5000mb-s-write  
 
