@@ -1,4 +1,4 @@
-# Video #25X Intel 12th Gen Productivity PC
+# Video #25X - Intel 12th Gen Productivity PC
 ### Description of my new (Aug 2022) PC (mainly productivity, maybe some future gaming)  
 Used for:
 * general browsing
@@ -96,19 +96,31 @@ Corsair RM750 750 Watt 80+ Gold Fully Modular PSU/Power Supply £70
 
 ---
 ## MONITOR
-**In-plane switching (or IPS) is an LCD-based technology that is used in just about every kind of display, whereas Vertical Alignment (or VA) is a more niche LCD technology used in gaming monitors, gaming TVs, and wide displays.**
+**Twisted Nematic (or TN)** are older but fast (ideal for gamers) and when paired with a high refresh rate, but TN monitors have the worst color reproduction and narrow viewing angles (170° horizontally, 160° vertically), which causes the image to shift in color, contrast and brightness when it’s looked at skewed angles.
 
-**Twisted Nematic (TN) are very fast (ideal for gamers) and when  paired with a high refresh rate, TN panel gaming monitors provide a buttery-smooth gaming experience at an affordable price, which is why they are usually the first choice of many professional FPS gamers; but TN monitors have the worst color reproduction and narrow viewing angles (170° horizontally, 160° vertically), which causes the image to shift in color, contrast and brightness when it’s looked at skewed angles.**
+**In-plane switching (or IPS)** is an [LG] LCD-based technology that is used in just about every kind of display. IPS panels have vastly superior viewing angles than TNs. This means you can view IPS panels from extreme angles and still get accurate color reproduction.
 
-Standard sizes and aspect ratios
-* 16:9 (eg 1980 x 1080, more likely 3440  ×1440 or 2560 × 1080)
+**Vertical Alignment (or VA)** is a [Samsung] LCD technology used in gaming monitors, gaming TVs, and wide displays. VA panels are something of a compromise between TN and IPS. They offer the best contrast ratios, which is why TV manufacturers use them extensively.
+
+### Standard aspect ratios and resolution
+* 16:9 (eg 1980 x 1080, more likely 3440  ×1440 or 2560 × 1080) 
 * 16:10 (eg 1920 x 1200) ← my current monitors
 * 21:9 (eg 3440 x 1440 or UltraWide QHD+ 3840 × 1600)
+* Most common monitor size is 27", but widescreen 34" and 38" are now more common.
+* Super wide 48" screens are rare (and expensive)
+
+### Refresh rates (FPS)
+* 60Hz for "productivity" monitors only
+* 75Hz just about acceptable for occasional gaming
+* 100Hz - 144Hz - 175Hz+ better for gaming (ideally with Nivdia GSync or AMD FreeSync)
 
 ### None yet!
+
+---
 ### itro £1000 LG or Similar 38" UWQHD+ ie 3840 x 1600 pixels
 ![image](https://user-images.githubusercontent.com/20911308/188266651-cf499379-975e-4bc5-8b71-6e2492fb61d3.png)
 
+---
 ### itro £600 3440 x 1440 pixels (wide but short)  
 ![image](https://user-images.githubusercontent.com/20911308/188266713-74abea11-643a-46d1-94f7-b79b4c88dd50.png)
 
