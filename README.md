@@ -60,14 +60,19 @@ Corsair RM750 750 Watt 80+ Gold Fully Modular PSU/Power Supply £70
 ---
 ## GRAPHICS CARD
 ### None yet! 
-### itro £600
-![image](https://user-images.githubusercontent.com/20911308/188266500-2699e72d-ef56-48e1-8cdf-65fbcd1d17b6.png)
+### itro £600 Nvidia RTX 3070
+![image](https://user-images.githubusercontent.com/20911308/188266550-9d2f0556-36f8-4824-a357-3bd3815b78ed.png)
 
 
-### itro £500
+### itro £500 NVidia RTX 3060Ti
 ![image](https://user-images.githubusercontent.com/20911308/188266480-85e36af7-9049-4ff6-8260-daeeea7e1abb.png)
 
 
+---
+## MONITOR
+### None yet!
+### itro £1000 LG or Similar 38" UWQHD+ ie 3840 x 1600 pixels
+![image](https://user-images.githubusercontent.com/20911308/188266651-cf499379-975e-4bc5-8b71-6e2492fb61d3.png)
 
 
 
