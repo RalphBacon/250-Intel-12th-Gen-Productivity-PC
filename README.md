@@ -35,6 +35,13 @@ Intel Core i5 12600K, S 1700, Alder Lake, 10 Cores, 16 Threads, 3.7GHz, 4.9GHz T
 https://www.scan.co.uk/products/intel-core-i5-12600k-s-1700-alder-lake-10-cores-16-threads-37ghz-49ghz-turbo-20mb-cache  
 
 ---
+![image](https://user-images.githubusercontent.com/20911308/188269157-c5e9eaca-78b3-4d2b-8607-9f8d3822ddb0.png)  
+![image](https://user-images.githubusercontent.com/20911308/188269007-48d56355-2929-4359-a90d-7b767ce03fdf.png)  
+
+![image](https://user-images.githubusercontent.com/20911308/188269031-18208c6b-b08b-4388-be5d-b186c6064993.png)  
+
+
+---
 ## COOLER
 be quiet Dark Rock 4 Intel/AMD Heatpipe Tower Air CPU Cooler £65  
 ![image](https://user-images.githubusercontent.com/20911308/188265825-896a4cb7-de89-4859-a671-2646d2963ca5.png)  
