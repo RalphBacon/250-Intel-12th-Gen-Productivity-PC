@@ -74,5 +74,7 @@ Corsair RM750 750 Watt 80+ Gold Fully Modular PSU/Power Supply £70
 ### itro £1000 LG or Similar 38" UWQHD+ ie 3840 x 1600 pixels
 ![image](https://user-images.githubusercontent.com/20911308/188266651-cf499379-975e-4bc5-8b71-6e2492fb61d3.png)
 
+### itro £600 3440 x 1440 pixels (wide but short)  
+![image](https://user-images.githubusercontent.com/20911308/188266713-74abea11-643a-46d1-94f7-b79b4c88dd50.png)
 
 
