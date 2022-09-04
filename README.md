@@ -3,10 +3,11 @@
 Used for:
 * general browsing
 * on-line shopping
-* R&D
+* research Arduino (et al) projects
+* C++ coding (Visual Studio Code, PlatformIO)
 * video editing
 * photo editing
-* Office 365
+* Office 365 (Word, Excel)
 * occasional gaming?
 
 ---
