@@ -1,4 +1,29 @@
-# Video #25X - Intel 12th Gen Productivity PC
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+# Video #250 - Intel 12th Gen Productivity PC
 ### Description of my new (Aug 2022) PC (mainly productivity, maybe some future gaming)  
 Used for:
 * general browsing
