@@ -1,31 +1,20 @@
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
 # Video #250 - Intel 12th Gen Productivity PC
-### Description of my new (Aug 2022) PC (mainly productivity, maybe some future gaming)  
-Used for:
+### Description of my new (Aug 2022) PC (mainly productivity, maybe some future gaming 🤷)  
+![New PC](https://user-images.githubusercontent.com/20911308/188663749-caf75148-d22b-459a-9981-38554ea834f0.png)  
+
+[![JLCPCB-Purple](https://user-images.githubusercontent.com/20911308/159024530-3e083ca1-fea4-4ba9-97d3-a3af3fb979d2.png)](https://www.jlcpcb.com/cem)  
+
+### Specification (links below in each section)
+* **Motherboard** Gigabyte Intel Z690 GAMING X DDR4 PCIe 5.0 ATX Motherboard
+* **CPU** Intel 12th Gen core i5-12600K (10 cores, 16 Threads)
+* **RAM** Corsair Vengeance LPX Black 32GB 3600MHz 2x16GB DDR4 Memory Kit
+* **CPU Cooler** be quiet! Dark Rock 4 Single Tower CPU Cooler, 6 Heatpipes, 135mm Silent Wings PWM Fan, Al/Cu, 200W TDP
+* **SSD** (OS/Boot) Samsung 980 PRO 1TB M.2 PCIe 4.0 Gen4 NVMe SSD/Solid State Drive
+* **SSD** (Data) Corsair MP600 PRO XT 2TB M.2 PCIe NVMe with Heatsink SSD/Solid State Drive
+* **Graphics Card** None (will probably an nVidia RTX 3070 or RTX 3060Ti). Currently using integrated Intel UHD Graphics 770
+* **Monitor** Existing 2 x DELL 24" U2412M 1980 x 1200 
+
+### Used for:
 * general browsing
 * on-line shopping
 * research Arduino (et al) projects
