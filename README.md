@@ -1,6 +1,7 @@
 # Video #250 - Intel 12th Gen Productivity PC
 ### Description of my new (Aug 2022) PC (mainly productivity, maybe some future gaming 🤷)  
-![New PC](https://user-images.githubusercontent.com/20911308/188663749-caf75148-d22b-459a-9981-38554ea834f0.png)  
+![Thumbnail-00004](https://user-images.githubusercontent.com/20911308/188672439-57957aa5-c658-4039-a7d2-eea7b34fa82b.png)  
+
 
 [![JLCPCB-Purple](https://user-images.githubusercontent.com/20911308/159024530-3e083ca1-fea4-4ba9-97d3-a3af3fb979d2.png)](https://www.jlcpcb.com/cem)  
 
