@@ -41,6 +41,7 @@ Amazon UK: https://amzn.to/3q6Rt0I
 ## MOTHERBOARD  
 Gigabyte Intel Z690 GAMING X DDR4 PCIe 5.0 ATX Motherboard £199 (£209)  
 ![image](https://user-images.githubusercontent.com/20911308/188265613-95e6a4df-b694-43b3-8245-f37c806ba10d.png)
+<img src="https://user-images.githubusercontent.com/20911308/189083148-8bef9014-f183-44b1-9f86-e73f3cf5ed6f.png" align="right">
 ![image](https://user-images.githubusercontent.com/20911308/188265631-50c64447-ddd7-47fc-b121-1a676d98704a.png)  
 https://www.scan.co.uk/products/gigabyte-z690-gaming-x-ddr4-intel-z690-s-1700-ddr4-pcie-50-sata3-4x-m2-25gbe-usb-32-gen-2-atx  
 Gigabyte Z690 GAMING X DDR4, Intel Z690, S 1700, DDR4, PCIe 5.0, SATA3, 4x M.2, 2.5GbE, USB 3.2 Gen 2, ATX  
@@ -95,8 +96,9 @@ https://www.scan.co.uk/products/2tb-corsair-mp600-pro-xt-m2-2280-pcie-40-x4-nvme
 ---
 ## PSU
 Corsair RM750 750 Watt 80+ Gold Fully Modular PSU/Power Supply £70  
-![image](https://user-images.githubusercontent.com/20911308/188265988-1451493d-2a6d-4b8b-a186-3ca404098f49.png)  
-750W Corsair RM Series RM750 Full Modular, 80PLUS Gold, SLI/CrossFire, Single Rail, 62.5A, 140mm Fan, ATX PSU
+![image](https://user-images.githubusercontent.com/20911308/188265988-1451493d-2a6d-4b8b-a186-3ca404098f49.png)    
+750W Corsair RM Series RM750 Full Modular, 80PLUS Gold, SLI/CrossFire, Single Rail, 62.5A, 140mm Fan, ATX PSU  
+https://www.scan.co.uk/products/750w-corsair-rm-series-rm750-full-modular-80plus-gold-sli-crossfire-single-rail-625a-140mm-fan-atx-p
 
 ---
 ## GRAPHICS CARD
