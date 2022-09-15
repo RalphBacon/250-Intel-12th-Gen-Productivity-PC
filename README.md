@@ -31,7 +31,6 @@ Amazon UK: https://amzn.to/3q6Rt0I
 ## MOTHERBOARD  
 Gigabyte Intel Z690 GAMING X DDR4 PCIe 5.0 ATX Motherboard £199 (£209)  
 ![image](https://user-images.githubusercontent.com/20911308/188265613-95e6a4df-b694-43b3-8245-f37c806ba10d.png)
-<img src="https://user-images.githubusercontent.com/20911308/189083148-8bef9014-f183-44b1-9f86-e73f3cf5ed6f.png" align="right">
 ![image](https://user-images.githubusercontent.com/20911308/188265631-50c64447-ddd7-47fc-b121-1a676d98704a.png)  
 https://www.scan.co.uk/products/gigabyte-z690-gaming-x-ddr4-intel-z690-s-1700-ddr4-pcie-50-sata3-4x-m2-25gbe-usb-32-gen-2-atx  
 Gigabyte Z690 GAMING X DDR4, Intel Z690, S 1700, DDR4, PCIe 5.0, SATA3, 4x M.2, 2.5GbE, USB 3.2 Gen 2, ATX  
